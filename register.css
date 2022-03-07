@@ -1,0 +1,23 @@
+		#register {
+			width: 80vw;
+			max-width: 500px;
+			border: 1px solid #cfd8d7;
+			border-radius: 10px;
+			background-position: top;
+			background-size: cover;
+			background-repeat: no-repeat;
+
+		}
+		#register_form {
+			margin: 0 auto;
+			width: 50vw;
+			max-width: 300px;
+			
+		}
+		.hidden {
+			display: none;
+		}
+
+		input.is-invalid::-webkit-input-placeholder {
+   			color: red;
+		}
